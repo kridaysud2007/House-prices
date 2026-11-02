@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CatBoost training artifacts
+catboost_info/
+notebooks/catboost_info/
+
+# macOS
+.DS_Store
